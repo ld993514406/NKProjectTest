@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.nowcoder.mavendemo1.AppTest" time="0.019" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.class.path" value="d:\javanb\NKTest\Chapter1\mavendemo1\target\test-classes;d:\javanb\NKTest\Chapter1\mavendemo1\target\classes;D:\javanb\MavenAZ\repository\junit\junit\4.11\junit-4.11.jar;D:\javanb\MavenAZ\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="D:\javanb\idk.8.0_131\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\lenovo\AppData\Local\Temp\surefire1733945120265564500\surefirebooter4871624401832229058.jar C:\Users\lenovo\AppData\Local\Temp\surefire1733945120265564500 2021-12-13T20-17-49_381-jvmRun1 surefire4382325941605050040tmp surefire_08024670504301050281tmp"/>
+    <property name="surefire.test.class.path" value="d:\javanb\NKTest\Chapter1\mavendemo1\target\test-classes;d:\javanb\NKTest\Chapter1\mavendemo1\target\classes;D:\javanb\MavenAZ\repository\junit\junit\4.11\junit-4.11.jar;D:\javanb\MavenAZ\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\lenovo"/>
+    <property name="user.language" value="zh"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="D:\javanb\idk.8.0_131\jre"/>
+    <property name="basedir" value="d:\javanb\NKTest\Chapter1\mavendemo1"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\lenovo\AppData\Local\Temp\surefire1733945120265564500\surefirebooter4871624401832229058.jar"/>
+    <property name="sun.boot.class.path" value="D:\javanb\idk.8.0_131\jre\lib\resources.jar;D:\javanb\idk.8.0_131\jre\lib\rt.jar;D:\javanb\idk.8.0_131\jre\lib\sunrsasign.jar;D:\javanb\idk.8.0_131\jre\lib\jsse.jar;D:\javanb\idk.8.0_131\jre\lib\jce.jar;D:\javanb\idk.8.0_131\jre\lib\charsets.jar;D:\javanb\idk.8.0_131\jre\lib\jfr.jar;D:\javanb\idk.8.0_131\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="user.name" value="lenovo"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="D:\javanb\idk.8.0_131\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="D:\javanb\MavenAZ\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\lenovo\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_131"/>
+    <property name="user.dir" value="d:\javanb\NKTest\Chapter1\mavendemo1"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="D:\javanb\idk.8.0_131\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\Useful software\civil engineer\ABAQUS2020\Commands;C:\Program Files\Microsoft MPI\Bin\;C:\ProgramData\Oracle\Java\javapath;D:\Useful software\civil engineer\Abaqus\simulia\commands;D:\Useful software\civil engineer\simulia\commands;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Useful software\civil engineer\Matlab\runtime\win64;D:\Useful software\civil engineer\Matlab\bin;D:\Useful software\civil engineer\Matlab\polyspace\bin;D:\Useful software\civil engineer\Matlab\2016a\runtime\win64;D:\Useful software\civil engineer\Matlab\2016a\bin;D:\Useful software\civil engineer\Matlab\2016a\polyspace\bin;D:\Useful software\civil engineer\matlab\R2020a\runtime\win64;D:\Useful software\civil engineer\matlab\R2020a\bin;D:\Useful software\civil engineer\matlab\R2020a\polyspace\bin;D:\Useful software\civil engineer\plaxis2d\python\plxpy\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\javanb\MavenAZ\apache-maven-3.6.1\bin;D:\javanb\Git\cmd;D:\javanb\LinuxNeed\Xshell\;D:\javanb\LinuxNeed\;C:\Users\lenovo\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\lenovo\AppData\Local\Programs\Python\Python38-32\;C:\Users\lenovo\AppData\Local\Microsoft\WindowsApps;D:\Program Files (x86)\PyCharm 2019.3.4\bin;;D:\Program Files (x86)\PyCharm Community Edition 2020.2\bin;;D:\javanb\idk.8.0_131\bin;D:\javanb\hspMySQL\mysql-5.7.19-winx64\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="java.ext.dirs" value="D:\javanb\idk.8.0_131\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="com.nowcoder.mavendemo1.AppTest" time="0.001"/>
+</testsuite>
